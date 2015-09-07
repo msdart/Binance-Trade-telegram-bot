@@ -86,7 +86,7 @@ function Key(msg,code)
 	
 	if msg == KEY_DOWN then
 		local me = entityList:GetMyHero()
-		local forcestaff = me:FindItem("item_dagon")
+		local forcestaff = me:FindItem("item_forcestaff")
 		if code == 70 and forcestaff and forcestaff.cd == 0 and forcestaff:CanBeCasted() and not forcestaff_effect then
 			forcestaff_effect = Effect(me,"range_display")
 			forcestaff_effect:SetVector(1,Vector(forcestaff.castRange,0,0))
