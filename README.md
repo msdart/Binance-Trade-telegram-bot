@@ -11,7 +11,7 @@ The Binance Trade Bot and Telegram Bot Installer is a versatile tool that allows
 - User-friendly setup wizard.
 
 ## Installation
-
+updated
 Follow these steps to set up the Binance Trade Bot and Telegram Bot Installer on your local machine or server:
 
 1. # 1. Follow to the my telegram group to get new updates and fixes https://t.me/+nd2gZeuLtQsxMDFi
